@@ -33,3 +33,23 @@ Execute the code cells in the notebook sequentially. This will train the Naive B
 ## Data Preparation
 
 The dataset is loaded and preprocessed to remove any irrelevant information.
+
+Removed the punctuations from the reviews.
+
+Removed stopwords.
+
+Handled the contractions in the reviews.
+
+Lemmatization is done to tokenize the reviews.
+
+## Feature Extraction
+
+## Model Building and Evaluation
+
+Naive Bayes Model
+
+SVM model
+
+Evaluated the model's performance.
+
+
